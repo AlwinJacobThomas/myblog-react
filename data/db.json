@@ -1,12 +1,5 @@
-
 {
   "blog": [
-    {
-      "title": "Slavary",
-      "body": "No one shall be held in slavery or servitude; slavery and the slave trade shall be prohibited in all their forms.",
-      "author": "Alan",
-      "id": 0
-    },
     {
       "title": "Freedom",
       "body": "Whereas a common understanding of these rights and freedoms is",
@@ -32,46 +25,28 @@
       "id": 4
     },
     {
-      "title": "Ebin Blog",
-      "body": "This is Ebin's Blog",
-      "author": "Ebin",
-      "id": 5
-    },
-    {
-      "title": "Ebin Blog",
-      "body": "This is Ebin's Blog",
-      "author": "Ebin",
-      "id": 6
-    },
-    {
-      "title": "Ebin Blog",
-      "body": "This is Ebin's Blog",
-      "author": "Ebin",
-      "id": 7
-    },
-    {
-      "title": "Ebin Blog",
-      "body": "This is Ebin's Blog",
-      "author": "Ebin",
-      "id": 8
-    },
-    {
-      "title": "Ebin Blog",
-      "body": "This is Ebin's Blog",
-      "author": "Ebin",
-      "id": 9
-    },
-    {
       "title": "ClassRoom",
       "body": "My class is superb awesome",
       "author": "Johnathan",
-      "id": 10
+      "id": 5
     },
     {
       "title": "Freedom in Christ",
       "body": "Jesus saved you from all your sin",
       "author": "Alwin",
-      "id": 11
+      "id": 6
+    },
+    {
+      "title": "sad",
+      "body": "asda",
+      "author": "Alwin",
+      "id": 7
+    },
+    {
+      "title": "zx",
+      "body": "kk",
+      "author": "Alwin",
+      "id": 8
     }
   ]
 }

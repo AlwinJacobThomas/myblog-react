@@ -1,12 +1,13 @@
 import { useState } from "react";
-import { Link } from "react-router-dom";
+import { Link,useNavigate } from "react-router-dom";
 
 const Create = () => {
     const [title, setTitle] = useState('');
     const [body, setBody] = useState('');
     const [author, setAuthor] = useState('Alwin');
     const [IsPending,setIsPending] = useState(false);
-
+    const navigate = useNavigate();
+    
     const handleSubmit = (e) => {
         e.preventDefault();//stop from refreshing(Default) the page when clicked submit
         const blog = { title, body, author }
@@ -19,6 +20,7 @@ const Create = () => {
         .then(()=>{
             setIsPending(false)
             console.log("new blog added");
+            navigate('/')
         })
     }
     return (

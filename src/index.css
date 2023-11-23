@@ -16,19 +16,20 @@ a{
   padding: 10px;
 }
 .btn{
-  padding: 5px 20px;
   color: white;
   background-color: #000000;
   border-radius: 10px;
   border: 1px solid transparent;
   width: 100px;
-  text-align: center;
   font-family: poppins;
   font-weight: 500;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .loading{
-  
   padding: 10px;
   font-size: 30px;
   font-family: caveat;

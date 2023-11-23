@@ -1,0 +1,77 @@
+
+{
+  "blog": [
+    {
+      "title": "Slavary",
+      "body": "No one shall be held in slavery or servitude; slavery and the slave trade shall be prohibited in all their forms.",
+      "author": "Alan",
+      "id": 0
+    },
+    {
+      "title": "Freedom",
+      "body": "Whereas a common understanding of these rights and freedoms is",
+      "author": "Alwin",
+      "id": 1
+    },
+    {
+      "title": "Rights",
+      "body": "Everyone has the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law.",
+      "author": "Ebin",
+      "id": 2
+    },
+    {
+      "title": "Personal Blog",
+      "body": "This is Ebin's Blog",
+      "author": "Ebin",
+      "id": 3
+    },
+    {
+      "title": "Ebin Blog",
+      "body": "This is Ebin's Blog",
+      "author": "Ebin",
+      "id": 4
+    },
+    {
+      "title": "Ebin Blog",
+      "body": "This is Ebin's Blog",
+      "author": "Ebin",
+      "id": 5
+    },
+    {
+      "title": "Ebin Blog",
+      "body": "This is Ebin's Blog",
+      "author": "Ebin",
+      "id": 6
+    },
+    {
+      "title": "Ebin Blog",
+      "body": "This is Ebin's Blog",
+      "author": "Ebin",
+      "id": 7
+    },
+    {
+      "title": "Ebin Blog",
+      "body": "This is Ebin's Blog",
+      "author": "Ebin",
+      "id": 8
+    },
+    {
+      "title": "Ebin Blog",
+      "body": "This is Ebin's Blog",
+      "author": "Ebin",
+      "id": 9
+    },
+    {
+      "title": "ClassRoom",
+      "body": "My class is superb awesome",
+      "author": "Johnathan",
+      "id": 10
+    },
+    {
+      "title": "Freedom in Christ",
+      "body": "Jesus saved you from all your sin",
+      "author": "Alwin",
+      "id": 11
+    }
+  ]
+}
